@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2bDfifb8UGpB8v0Sbnf95eyGEhDoI4/hetTmOVu3WUZvqRwpV2nwfpWqPSOnj1aB8BGr7dGvV3Qf7Ke409aVJg==",
+  "dgSpecHash": "J+ND76WOhcooWcJFQfoJ7IYh60irjYJRr5J0D9fLQ4pXhZ2k3DL+W2Gky/k9w3jCjTDJeSqMFj13N9BANOobzQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\samue\\OneDrive\\Área de Trabalho\\DDDWebAPI\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\samue\\OneDrive\\Área de Trabalho\\Meus Projetos\\DDDWebAPI\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\samue\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\samue\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.17\\microsoft.aspnetcore.cryptography.internal.5.0.17.nupkg.sha512",

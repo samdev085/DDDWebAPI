@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EWXjkC9w5Rtle1Fz9itxP3Ol6TkxukYb0LH2u4h9GCqC52S4EW1KSZ4eQ7iV/uoV1k7K6UTh73UrlJMRoT3RRA==",
+  "dgSpecHash": "rdAMAtT278uXolk7ZoJd6jmicoIdrU+t6btNrUb5nOxmu02sNbcSwComYtY2CgDD5VsRFTS/i/xM3y5x0ZRH+A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\samue\\OneDrive\\Área de Trabalho\\DDDWebAPI\\Domain\\Domain.csproj",
+  "projectFilePath": "C:\\Users\\samue\\OneDrive\\Área de Trabalho\\Meus Projetos\\DDDWebAPI\\Domain\\Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\samue\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.17\\microsoft.aspnetcore.cryptography.internal.5.0.17.nupkg.sha512",
     "C:\\Users\\samue\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\5.0.17\\microsoft.aspnetcore.cryptography.keyderivation.5.0.17.nupkg.sha512",
