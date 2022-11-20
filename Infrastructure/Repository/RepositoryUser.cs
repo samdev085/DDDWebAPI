@@ -54,9 +54,9 @@ namespace Infrastructure.Repository
         {
             try
             {
-                using (var db = new Context(_optionsbuilder))
+                using (var data = new Context(_optionsbuilder))
                 {
-                    return await db.ApplicationUser.
+                    return await data.ApplicationUser.
                            Where(x => x.Email.Equals(email) && 
                            x.PasswordHash.Equals(password))
                            .AsNoTracking()
@@ -73,9 +73,9 @@ namespace Infrastructure.Repository
         {
             try
             {
-                using (var db = new Context(_optionsbuilder))
+                using (var data = new Context(_optionsbuilder))
                 {
-                    var user = await db.ApplicationUser.
+                    var user = await data.ApplicationUser.
                            Where(x => x.Email.Equals(email))
                            .AsNoTracking()
                            .FirstOrDefaultAsync();

@@ -13,3 +13,18 @@ C:\Users\samue\OneDrive\Área de Trabalho\Rent_CarBack\Rent_CarWebAPI\Domain\obj
 C:\Users\samue\OneDrive\Área de Trabalho\Rent_CarBack\Rent_CarWebAPI\Domain\bin\Debug\net5.0\Entities.dll
 C:\Users\samue\OneDrive\Área de Trabalho\Rent_CarBack\Rent_CarWebAPI\Domain\bin\Debug\net5.0\Entities.pdb
 C:\Users\samue\OneDrive\Área de Trabalho\Rent_CarBack\Rent_CarWebAPI\Domain\obj\Debug\net5.0\Domain.csproj.CopyComplete
+C:\Users\samue\OneDrive\Área de Trabalho\Meus Projetos\DDDWebAPI\Domain\bin\Debug\net5.0\Domain.deps.json
+C:\Users\samue\OneDrive\Área de Trabalho\Meus Projetos\DDDWebAPI\Domain\bin\Debug\net5.0\Domain.dll
+C:\Users\samue\OneDrive\Área de Trabalho\Meus Projetos\DDDWebAPI\Domain\bin\Debug\net5.0\ref\Domain.dll
+C:\Users\samue\OneDrive\Área de Trabalho\Meus Projetos\DDDWebAPI\Domain\bin\Debug\net5.0\Domain.pdb
+C:\Users\samue\OneDrive\Área de Trabalho\Meus Projetos\DDDWebAPI\Domain\bin\Debug\net5.0\Entities.dll
+C:\Users\samue\OneDrive\Área de Trabalho\Meus Projetos\DDDWebAPI\Domain\bin\Debug\net5.0\Entities.pdb
+C:\Users\samue\OneDrive\Área de Trabalho\Meus Projetos\DDDWebAPI\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+C:\Users\samue\OneDrive\Área de Trabalho\Meus Projetos\DDDWebAPI\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samue\OneDrive\Área de Trabalho\Meus Projetos\DDDWebAPI\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+C:\Users\samue\OneDrive\Área de Trabalho\Meus Projetos\DDDWebAPI\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+C:\Users\samue\OneDrive\Área de Trabalho\Meus Projetos\DDDWebAPI\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\samue\OneDrive\Área de Trabalho\Meus Projetos\DDDWebAPI\Domain\obj\Debug\net5.0\Domain.csproj.CopyComplete
+C:\Users\samue\OneDrive\Área de Trabalho\Meus Projetos\DDDWebAPI\Domain\obj\Debug\net5.0\Domain.dll
+C:\Users\samue\OneDrive\Área de Trabalho\Meus Projetos\DDDWebAPI\Domain\obj\Debug\net5.0\ref\Domain.dll
+C:\Users\samue\OneDrive\Área de Trabalho\Meus Projetos\DDDWebAPI\Domain\obj\Debug\net5.0\Domain.pdb

@@ -38,3 +38,23 @@ C:\Users\samue\OneDrive\Área de Trabalho\DDDWebAPI\DDDWebAPI\Infrastructure\obj
 C:\Users\samue\OneDrive\Área de Trabalho\DDDWebAPI\DDDWebAPI\Infrastructure\obj\Debug\net5.0\ref\Infrastructure.dll
 C:\Users\samue\OneDrive\Área de Trabalho\DDDWebAPI\DDDWebAPI\Infrastructure\obj\Debug\net5.0\Infrastructure.pdb
 C:\Users\samue\OneDrive\Área de Trabalho\DDDWebAPI\DDDWebAPI\Infrastructure\obj\Debug\net5.0\Infrastructure.genruntimeconfig.cache
+C:\Users\samue\OneDrive\Área de Trabalho\Meus Projetos\DDDWebAPI\Infrastructure\bin\Debug\net5.0\Infrastructure.deps.json
+C:\Users\samue\OneDrive\Área de Trabalho\Meus Projetos\DDDWebAPI\Infrastructure\bin\Debug\net5.0\Infrastructure.runtimeconfig.json
+C:\Users\samue\OneDrive\Área de Trabalho\Meus Projetos\DDDWebAPI\Infrastructure\bin\Debug\net5.0\Infrastructure.runtimeconfig.dev.json
+C:\Users\samue\OneDrive\Área de Trabalho\Meus Projetos\DDDWebAPI\Infrastructure\bin\Debug\net5.0\Infrastructure.dll
+C:\Users\samue\OneDrive\Área de Trabalho\Meus Projetos\DDDWebAPI\Infrastructure\bin\Debug\net5.0\ref\Infrastructure.dll
+C:\Users\samue\OneDrive\Área de Trabalho\Meus Projetos\DDDWebAPI\Infrastructure\bin\Debug\net5.0\Infrastructure.pdb
+C:\Users\samue\OneDrive\Área de Trabalho\Meus Projetos\DDDWebAPI\Infrastructure\bin\Debug\net5.0\Domain.dll
+C:\Users\samue\OneDrive\Área de Trabalho\Meus Projetos\DDDWebAPI\Infrastructure\bin\Debug\net5.0\Entities.dll
+C:\Users\samue\OneDrive\Área de Trabalho\Meus Projetos\DDDWebAPI\Infrastructure\bin\Debug\net5.0\Domain.pdb
+C:\Users\samue\OneDrive\Área de Trabalho\Meus Projetos\DDDWebAPI\Infrastructure\bin\Debug\net5.0\Entities.pdb
+C:\Users\samue\OneDrive\Área de Trabalho\Meus Projetos\DDDWebAPI\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\samue\OneDrive\Área de Trabalho\Meus Projetos\DDDWebAPI\Infrastructure\obj\Debug\net5.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samue\OneDrive\Área de Trabalho\Meus Projetos\DDDWebAPI\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\samue\OneDrive\Área de Trabalho\Meus Projetos\DDDWebAPI\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfo.cs
+C:\Users\samue\OneDrive\Área de Trabalho\Meus Projetos\DDDWebAPI\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\samue\OneDrive\Área de Trabalho\Meus Projetos\DDDWebAPI\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CopyComplete
+C:\Users\samue\OneDrive\Área de Trabalho\Meus Projetos\DDDWebAPI\Infrastructure\obj\Debug\net5.0\Infrastructure.dll
+C:\Users\samue\OneDrive\Área de Trabalho\Meus Projetos\DDDWebAPI\Infrastructure\obj\Debug\net5.0\ref\Infrastructure.dll
+C:\Users\samue\OneDrive\Área de Trabalho\Meus Projetos\DDDWebAPI\Infrastructure\obj\Debug\net5.0\Infrastructure.pdb
+C:\Users\samue\OneDrive\Área de Trabalho\Meus Projetos\DDDWebAPI\Infrastructure\obj\Debug\net5.0\Infrastructure.genruntimeconfig.cache
